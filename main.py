@@ -6,7 +6,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from cities import cities
 
-TOKEN = '7017471059:AAE7B498My13j3tN698pQlc-4ewTp1OLtxw'
+TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
